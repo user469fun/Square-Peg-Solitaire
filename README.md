@@ -24,4 +24,4 @@ Contributions
 Contributions to improve the game interface, add new features, or optimize the code are welcome. To contribute, fork the repository, make changes, and submit a pull request for review.
 
 Feel free to explore the code, play the game, and contribute to enhancing the Square Peg Solitaire web app. If you encounter any issues or have suggestions for improvements, please open an issue in the repository. Thank you for checking out the project!
-(Yes this whole readme was written by Chatgpt)
+
